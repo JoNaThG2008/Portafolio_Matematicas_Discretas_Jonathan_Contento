@@ -42,7 +42,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 
 
-<details>
+<details open>
   <summary>📂 <b>Unidad 1: </b></summary>
   <br>
   <blockquote>
@@ -52,7 +52,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 </details>
 
-<details>
+<details open>
   <summary>📂 <b>Unidad 2: </b></summary>
   <br>
   <blockquote>
@@ -61,6 +61,22 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
     
  
+</details>
+<details open>
+<summary>📂 <b>Unidad 1</b></summary>
+
+```text
+📂 Unidad 1
+│
+├── 📄 Sílabo.pdf
+├── 📄 Apuntes.pdf
+├── 📄 Tarea 1.pdf
+├── 📄 Taller 1.pdf
+├── 📄 Investigación.pdf
+├── 📄 Práctica.pdf
+└── 📄 Evidencias
+```
+
 </details>
 
 
