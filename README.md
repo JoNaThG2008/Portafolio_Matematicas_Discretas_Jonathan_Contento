@@ -49,12 +49,31 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
   
 ### Contenidos Unidad 1:
 #### Actvidades Practico Experimentales APE (Grupo D)
-##### APE 1_Fase 1
+##### 📄 APE 1_Fase 1
 [APE_FASE1_U1_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30068747/APE_FASE1_U1_GRUPO.D.pdf)
+##### 📄 APE 1_Fase 2
+
+##### 📄 APE 1_Fase 3
+
+##### 📄 APE 1_Fase 4
+
+##### 📄 APE 1_Fase 5
+
+##### 📄 APE 1_Fase 6
 
 #### Actvidades Practico Experimentales APE (Anexos Individuales)
-##### APE 1_Fase 1
+##### 📄 APE 1_Fase 1
 [Anexo_APE1_U1_MD_Jonathan_Contento.pdf](https://github.com/user-attachments/files/30068736/Anexo_APE1_U1_MD_Jonathan_Contento.pdf)
+##### 📄 APE 1_Fase 2
+
+##### 📄 APE 1_Fase 3
+
+##### 📄 APE 1_Fase 4
+
+##### 📄 APE 1_Fase 5
+
+##### 📄 APE 1_Fase 6
+
 
 #### Actvidades Autonomas (AA)
 
