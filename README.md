@@ -41,12 +41,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 # Portafolio de Matemáticas Discretas
 
 <div align="center">
-
-## Universidad
-### Portafolio Académico
-
-**Asignatura:** Matemática Discreta
-
+  
 ---
 
 ### 📂 Contenido del Portafolio
