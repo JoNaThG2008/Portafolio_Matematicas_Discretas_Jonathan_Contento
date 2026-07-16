@@ -140,7 +140,7 @@ En este árbol:
 ---
 
 <details open>
-<summary><strong>📌 AA 4 - ---------- (Actividad Autónoma Unidad 3)</strong></summary>
+<summary><strong>📌 AA 4 - Árboles (Actividad Autónoma Unidad 3)</strong></summary>
 
 ### 📁 Evidencias
 
@@ -164,7 +164,7 @@ En este árbol:
 ---
 
 <details open>
-<summary><strong>📌 ACD 2 - ------- (Trabajo Grupo D)</strong></summary>
+<summary><strong>📌 ACD 2 - Árboles (Trabajo Grupo D)</strong></summary>
 
 ### 📁 Evidencias
 
