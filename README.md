@@ -49,13 +49,13 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
   ### Contenidos Unidad 3:
   
-  #### Actvidades Practico Experimentales (APE)
+  #### 📄 Actvidades Practico Experimentales (APE)
   [APE_FASE1-FASE2_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069375/APE_FASE1-FASE2_U3_GRUPO.D.pdf)
 
-  #### Actvidades Autonomas (AA)
+  #### 📄 Actvidades Autonomas (AA)
   [AA _TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069378/AA._TEORIA_GRAFOS_U3_GRUPO.D.pdf)
 
-  #### Actvidades en Contacto con el Docente (APE)
+  #### 📄 Actvidades en Contacto con el Docente (APE)
   [ACD _ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069382/ACD._ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO.D.pdf)
   [ACD _DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069385/ACD._DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO.D.pdf)
 
