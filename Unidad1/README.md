@@ -70,9 +70,29 @@ La negación simplemente cambia el valor de verdad de la proposición original.
 
 # 📂 Actividades de la Unidad 1
 
-## 📑 APE (Aprendizaje en Contacto con el Profesor)
+## 📑 APE (Actividades Practico Experimentales)
 
-En esta sección se incluyen las actividades desarrolladas durante las clases con la guía del docente, tales como ejercicios, resolución de problemas, talleres y explicaciones relacionadas con la lógica proposicional y las tablas de verdad.
+## 📌 Fase 1
+https://drive.google.com/drive/folders/10KWIKg06BnZkrAmKs4c2oGhKEXI7WcjL?usp=drive_link
+---
+
+## 📌 Fase 2
+
+
+---
+
+## 📌 Fase 3
+
+
+---
+
+## 📌 Fase 4
+
+
+---
+
+## 📌 Fase 5
+
 
 ---
 
@@ -82,6 +102,6 @@ Aquí se recopilan las investigaciones, lecturas, ejercicios y actividades reali
 
 ---
 
-## 💻 ACD (Aprendizaje Colaborativo)
+## 💻 ACD (Aprendizaje en Contacto con el Docente)
 
 Esta sección contiene las actividades desarrolladas en equipo, discusiones, resolución colaborativa de ejercicios y demás evidencias de trabajo conjunto realizadas durante la Unidad 1.
