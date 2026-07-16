@@ -40,61 +40,6 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
                                                     
 # Portafolio de Matemáticas Discretas
 
-
-
-<details open>
-  <summary>📂 <b>Unidad 1: </b></summary>
-  <br>
-  <blockquote>
-  
-### Contenidos Unidad 1:
-#### Actvidades Practico Experimentales APE (Grupo D)
-##### 📄 APE 1_Fase 1
-[APE_FASE1_U1_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30068747/APE_FASE1_U1_GRUPO.D.pdf)
-##### 📄 APE 1_Fase 2
-
-##### 📄 APE 1_Fase 3
-
-##### 📄 APE 1_Fase 4
-
-##### 📄 APE 1_Fase 5
-
-##### 📄 APE 1_Fase 6
-
-#### Actvidades Practico Experimentales APE (Anexos Individuales)
-##### 📄 APE 1_Fase 1
-[Anexo_APE1_U1_MD_Jonathan_Contento.pdf](https://github.com/user-attachments/files/30068736/Anexo_APE1_U1_MD_Jonathan_Contento.pdf)
-##### 📄 APE 1_Fase 2
-
-##### 📄 APE 1_Fase 3
-
-##### 📄 APE 1_Fase 4
-
-##### 📄 APE 1_Fase 5
-
-##### 📄 APE 1_Fase 6
-
-
-#### Actvidades Autonomas (AA)
-
-#### Actvidades en Contacto con el Docente (APE)
-
-</details>
-
-<details open>
-  <summary>📂 <b>Unidad 2: </b></summary>
-  <br>
-  <blockquote>
-
-  ### Contenidos Unidad 2:
-  
-#### Actvidades Practico Experimentales (APE)
-
-#### Actvidades Autonomas (AA)
-
-#### Actvidades en Contacto con el Docente (APE)
-    
- 
 </details>
 
 <details open>
@@ -105,9 +50,15 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
   ### Contenidos Unidad 3:
   
   #### Actvidades Practico Experimentales (APE)
-  
+  [APE_FASE1-FASE2_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069375/APE_FASE1-FASE2_U3_GRUPO.D.pdf)
+
   #### Actvidades Autonomas (AA)
-  
+  [AA _TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069378/AA._TEORIA_GRAFOS_U3_GRUPO.D.pdf)
+
   #### Actvidades en Contacto con el Docente (APE)
+  [ACD _ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069382/ACD._ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO.D.pdf)
+  [ACD _DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069385/ACD._DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO.D.pdf)
+
+
 
 </details>
