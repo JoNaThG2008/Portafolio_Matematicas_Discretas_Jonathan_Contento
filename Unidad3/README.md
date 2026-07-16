@@ -3,8 +3,6 @@
 # 📘 Unidad 3
 ## Teoría de Grafos y Árboles
 
-*"La teoría de grafos y los árboles permiten representar relaciones, conexiones y estructuras jerárquicas utilizadas en diferentes áreas de la computación."*
-
 </div>
 
 ---
