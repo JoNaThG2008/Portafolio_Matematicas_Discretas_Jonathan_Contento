@@ -42,7 +42,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 ##### 📄 Aprendizaje Autónomo
 
-<a href="Documentos/AA_TEORIA_GRAFOS_U3_GRUPO_"D".pdf">
+<a href="Documentos/AA_TEORIA_GRAFOS_U3_GRUPO_D.pdf">
     <img src="Imagenes/AA.jpeg" width="350" alt="Aprendizaje Autónomo">
 </a>
 
@@ -54,7 +54,7 @@ Haz clic en la imagen para abrir el documento.
 
 ##### 📄 Aprendizaje Practico Experimental (APE)
 
-<a href="Documentos/APE_FASE1-FASE2_U3_GRUPO_"D".pdf">
+<a href="Documentos/APE_FASE1-FASE2_U3_GRUPO_D.pdf">
     <img src="Imagenes/APE_U3.jpeg" width="350" alt="APE">
 </a>
 
@@ -66,7 +66,7 @@ Haz clic en la imagen para abrir el documento.
 
 ##### 📄 Presentación
 
-<a href="Documentos/ACD_DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO_"D".pdf">
+<a href="Documentos/ACD_DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO_D.pdf">
     <img src="Imagenes/PRESENTACION.jpeg" width="350" alt="Presentación">
 </a>
 
@@ -78,7 +78,7 @@ Haz clic en la imagen para abrir el documento.
 
 ##### 📄 Enlace Video Presentacion ACD
 
-<a href="Documentos/ACD_ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO_"D".pdf">
+<a href="Documentos/ACD_ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO_D.pdf">
     <img src="Imagenes/VIDEO.jpeg" width="350" alt="Video">
 </a>
 
