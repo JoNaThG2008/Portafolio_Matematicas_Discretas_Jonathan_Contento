@@ -1,50 +1,60 @@
+<div align="center">
+
 # 📘 Unidad 1
 ## Fundamentos de Lógica Proposicional
 
-La Unidad 1 introduce los conceptos fundamentales de la lógica proposicional, una de las bases de la Matemática Discreta. En esta unidad se estudian las proposiciones, los operadores lógicos y las tablas de verdad, herramientas que permiten analizar y representar el razonamiento lógico de manera precisa. Estos conocimientos constituyen el punto de partida para comprender temas más avanzados como los grafos, árboles, demostraciones y algoritmos.
+*"La lógica constituye la base del razonamiento matemático y del desarrollo de algoritmos."*
+
+</div>
 
 ---
 
-# 1.1 Definiciones básicas de lógica, proposiciones y operadores
+## 📑 Contenido de la Unidad
 
-La lógica es la rama de las matemáticas que estudia las reglas del razonamiento correcto. En Matemática Discreta se utiliza para analizar afirmaciones y determinar si son verdaderas o falsas mediante procedimientos formales.
+- 📖 1.1 Definiciones básicas de lógica, proposiciones y operadores.
+- 📖 1.2 Tablas de verdad.
+- 📂 Actividades desarrolladas.
 
-Una **proposición** es un enunciado declarativo que puede tomar únicamente uno de dos valores de verdad: **verdadero (V)** o **falso (F)**. Las preguntas, órdenes o expresiones ambiguas no se consideran proposiciones porque no es posible asignarles un valor de verdad.
+---
 
-Los **operadores lógicos** permiten combinar proposiciones para formar expresiones más complejas. Los operadores más utilizados son:
+# 📖 1.1 Definiciones básicas de lógica, proposiciones y operadores
+
+La lógica estudia las reglas del razonamiento válido y permite analizar la veracidad de diferentes afirmaciones mediante procedimientos formales. En Matemática Discreta constituye uno de los pilares para comprender problemas computacionales y matemáticos.
+
+Una **proposición** es un enunciado declarativo que puede ser únicamente **verdadero (V)** o **falso (F)**. A partir de ellas es posible construir expresiones más complejas utilizando operadores lógicos.
+
+## Operadores lógicos
 
 | Operador | Símbolo | Significado |
-|----------|:-------:|-------------|
+|:---------|:------:|-------------|
 | Negación | ¬ | Niega una proposición |
-| Conjunción | ∧ | "Y" |
-| Disyunción | ∨ | "O" |
-| Condicional | → | "Si... entonces..." |
-| Bicondicional | ↔ | "Si y solo si" |
+| Conjunción | ∧ | Y |
+| Disyunción | ∨ | O |
+| Condicional | → | Si... entonces |
+| Bicondicional | ↔ | Si y solo si |
 
-### Ejemplo
+### ✏️ Ejemplo
 
 Sea:
 
-- **p:** "Hoy es lunes."
-- **q:** "Tengo clase de Matemática Discreta."
+- **p:** Hoy es lunes.
+- **q:** Tengo clase de Matemática Discreta.
 
 Entonces:
 
-- **p ∧ q** → "Hoy es lunes **y** tengo clase de Matemática Discreta."
-- **¬p** → "Hoy no es lunes."
-- **p → q** → "Si hoy es lunes, entonces tengo clase de Matemática Discreta."
+| Expresión | Interpretación |
+|-----------|----------------|
+| **p ∧ q** | Hoy es lunes y tengo clase. |
+| **¬p** | Hoy no es lunes. |
+| **p → q** | Si hoy es lunes, entonces tengo clase. |
 
 ---
 
-# 1.2 Tablas de verdad
+# 📖 1.2 Tablas de verdad
 
-Las tablas de verdad son una herramienta que permite determinar el valor lógico de una expresión para todas las posibles combinaciones de sus proposiciones. Son ampliamente utilizadas para verificar equivalencias lógicas, analizar argumentos y comprobar la validez de expresiones.
+Las tablas de verdad permiten determinar el valor lógico de una expresión para todas las combinaciones posibles de sus proposiciones. Son una herramienta fundamental para verificar argumentos, equivalencias lógicas y demostrar propiedades.
 
-Cada fila de una tabla representa una combinación distinta de valores de verdad, mientras que las columnas muestran el resultado obtenido al aplicar los operadores lógicos.
-
-### Ejemplo
-
-Proposición:
+### ✏️ Ejemplo
 
 **p ∧ q**
 
@@ -55,38 +65,89 @@ Proposición:
 | F | V | F |
 | F | F | F |
 
+> **Observación:** La conjunción únicamente es verdadera cuando ambas proposiciones son verdaderas.
+
 ---
 
 # 📂 Actividades de la Unidad 1
 
-## 📑 APE (Actividades Practico Experimentales)
+## 📑 APE (Actividades Práctico Experimentales)
 
-## 📌 Fase 1 (Trabajo Grupal y Anexos Personales)
-https://drive.google.com/drive/folders/10KWIKg06BnZkrAmKs4c2oGhKEXI7WcjL?usp=drive_link
----
+<details>
+<summary><strong>📌 Fase 1 - Trabajo grupal y anexos personales</strong></summary>
 
-## 📌 Fase 2 (Trabajo Grupal y Anexos Personales)
-https://drive.google.com/drive/folders/1nTLVeIhVMXzwzGzjGmqdswKZm_rnp1sa?usp=drive_link
----
+### 📁 Evidencias
 
-## 📌 Fase 3 (Trabajo Grupal y Anexos Personales)
-https://drive.google.com/drive/folders/1PnY-_ggPxXXt9dGYfK64G_xB6tN0EcAQ?usp=drive_link
----
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/10KWIKg06BnZkrAmKs4c2oGhKEXI7WcjL?usp=drive_link)**
 
-## 📌 Fase 4 (Trabajo Grupal y Anexos Personales)
-https://drive.google.com/drive/folders/1JsvtBRhxByLHVNOKd1sUSu4FFGgavpZp?usp=drive_link
----
+</details>
 
-## 📌 Fase 5 (Trabajo Grupal y Anexos Personales)
-https://drive.google.com/drive/folders/1UzeeyWDAGKzmol_O1-sd4fKgghI-2MEK?usp=drive_link
+<details>
+<summary><strong>📌 Fase 2 - Trabajo grupal y anexos personales</strong></summary>
+
+### 📁 Evidencias
+
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1nTLVeIhVMXzwzGzjGmqdswKZm_rnp1sa?usp=drive_link)**
+
+</details>
+
+<details>
+<summary><strong>📌 Fase 3 - Trabajo grupal y anexos personales</strong></summary>
+
+### 📁 Evidencias
+
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1PnY-_ggPxXXt9dGYfK64G_xB6tN0EcAQ?usp=drive_link)**
+
+</details>
+
+<details>
+<summary><strong>📌 Fase 4 - Trabajo grupal y anexos personales</strong></summary>
+
+### 📁 Evidencias
+
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1JsvtBRhxByLHVNOKd1sUSu4FFGgavpZp?usp=drive_link)**
+
+</details>
+
+<details>
+<summary><strong>📌 Fase 5 - Trabajo grupal y anexos personales</strong></summary>
+
+### 📁 Evidencias
+
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1UzeeyWDAGKzmol_O1-sd4fKgghI-2MEK?usp=drive_link)**
+
+</details>
+
 ---
 
 ## 📚 AA (Aprendizaje Autónomo)
 
-Aquí se recopilan las investigaciones, lecturas, ejercicios y actividades realizadas de manera independiente para fortalecer los conocimientos adquiridos durante la unidad.
+<details>
+<summary><strong>📌 AA 1 - Portafolio Unidad 1</strong></summary>
+
+### 📁 Evidencias
+
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1g-YBZq5BO0EoFdXc6wJF8ZjlbEIzlRBM?usp=drive_link)**
+
+</details>
 
 ---
 
 ## 💻 ACD (Aprendizaje en Contacto con el Docente)
 
-Esta sección contiene las actividades desarrolladas en equipo, discusiones, resolución colaborativa de ejercicios y demás evidencias de trabajo conjunto realizadas durante la Unidad 1.
+<details>
+<summary><strong>📌 ACD 1 - Trabajo grupal y anexos personales</strong></summary>
+
+### 📁 Evidencias
+
+➡️ **[Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1JeLPR500Slp9JB7zxf4SbQS1-tsIwnFc?usp=drive_link)**
+
+</details>
+
+---
+
+<div align="center">
+
+### ✔️ Fin del contenido de la Unidad 1
+
+</div>
