@@ -49,7 +49,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 | Unidad | Descripción | Acceder |
 |:------:|:------------|:-------:|
 | 📁 Unidad 1 | Fundamentos de Matemática Discreta | 👉 [Abrir](./Unidad1/) |
-| 📁 Unidad 2 | Grafos, Árboles y Relaciones | 👉 [Abrir](./Unidad2/) |
-| 📁 Unidad 3 | Algoritmos, Recorridos y Aplicaciones | 👉 [Abrir](./Unidad3/) |
+| 📁 Unidad 2 | Álgebra Booleana | 👉 [Abrir](./Unidad2/) |
+| 📁 Unidad 3 | Teoria de Grafos | 👉 [Abrir](./Unidad3/) |
 
 </div>
