@@ -3,8 +3,6 @@
 # 📘 Unidad 1
 ## Fundamentos de Lógica Proposicional
 
-*"La lógica constituye la base del razonamiento matemático y del desarrollo de algoritmos."*
-
 </div>
 
 ---
