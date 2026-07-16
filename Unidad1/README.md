@@ -55,43 +55,30 @@ Proposición:
 | F | V | F |
 | F | F | F |
 
-En este caso, la conjunción solamente resulta verdadera cuando ambas proposiciones son verdaderas al mismo tiempo.
-
-Otro ejemplo:
-
-| p | ¬p |
-|:-:|:--:|
-| V | F |
-| F | V |
-
-La negación simplemente cambia el valor de verdad de la proposición original.
-
 ---
 
 # 📂 Actividades de la Unidad 1
 
 ## 📑 APE (Actividades Practico Experimentales)
 
-## 📌 Fase 1
+## 📌 Fase 1 (Trabajo Grupal y Anexos Personales)
 https://drive.google.com/drive/folders/10KWIKg06BnZkrAmKs4c2oGhKEXI7WcjL?usp=drive_link
 ---
 
-## 📌 Fase 2
+## 📌 Fase 2 (Trabajo Grupal y Anexos Personales)
 https://drive.google.com/drive/folders/1nTLVeIhVMXzwzGzjGmqdswKZm_rnp1sa?usp=drive_link
 ---
 
-## 📌 Fase 3
+## 📌 Fase 3 (Trabajo Grupal y Anexos Personales)
 https://drive.google.com/drive/folders/1PnY-_ggPxXXt9dGYfK64G_xB6tN0EcAQ?usp=drive_link
 ---
 
-## 📌 Fase 4
-
-
+## 📌 Fase 4 (Trabajo Grupal y Anexos Personales)
+https://drive.google.com/drive/folders/1JsvtBRhxByLHVNOKd1sUSu4FFGgavpZp?usp=drive_link
 ---
 
-## 📌 Fase 5
-
-
+## 📌 Fase 5 (Trabajo Grupal y Anexos Personales)
+https://drive.google.com/drive/folders/1UzeeyWDAGKzmol_O1-sd4fKgghI-2MEK?usp=drive_link
 ---
 
 ## 📚 AA (Aprendizaje Autónomo)
