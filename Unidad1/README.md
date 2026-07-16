@@ -73,7 +73,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 ## 📑 APE (Actividades Práctico Experimentales)
 
-<details>
+<details open>
 <summary><strong>📌 Fase 1 - Trabajo grupal y anexos personales</strong></summary>
 
 ### 📁 Evidencias
@@ -82,7 +82,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 </details>
 
-<details>
+<details open>
 <summary><strong>📌 Fase 2 - Trabajo grupal y anexos personales</strong></summary>
 
 ### 📁 Evidencias
@@ -91,7 +91,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 </details>
 
-<details>
+<details open>
 <summary><strong>📌 Fase 3 - Trabajo grupal y anexos personales</strong></summary>
 
 ### 📁 Evidencias
@@ -100,7 +100,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 </details>
 
-<details>
+<details open>
 <summary><strong>📌 Fase 4 - Trabajo grupal y anexos personales</strong></summary>
 
 ### 📁 Evidencias
@@ -109,7 +109,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 </details>
 
-<details>
+<details open>
 <summary><strong>📌 Fase 5 - Trabajo grupal y anexos personales</strong></summary>
 
 ### 📁 Evidencias
@@ -122,7 +122,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 ## 📚 AA (Aprendizaje Autónomo)
 
-<details>
+<details open>
 <summary><strong>📌 AA 1 - Portafolio Unidad 1</strong></summary>
 
 ### 📁 Evidencias
@@ -135,7 +135,7 @@ Las tablas de verdad permiten determinar el valor lógico de una expresión para
 
 ## 💻 ACD (Aprendizaje en Contacto con el Docente)
 
-<details>
+<details open>
 <summary><strong>📌 ACD 1 - Trabajo grupal y anexos personales</strong></summary>
 
 ### 📁 Evidencias
