@@ -40,41 +40,48 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
                                                     
 # Portafolio de Matemáticas Discretas
 
-</details>
+##### 📄 Aprendizaje Autónomo
 
-<details open>
-  <summary>📂 <b>Unidad 3: </b></summary>
-  <br>
-  <blockquote>
+<a href="Documentos/AA_TEORIA_GRAFOS_U3_GRUPO_D.pdf">
+    <img src="Imagenes/AA.jpeg" width="350" alt="Aprendizaje Autónomo">
+</a>
 
-  ### Contenidos Unidad 3:
-  
-  ## GRUPO "D"
+<p align="center">
+Haz clic en la imagen para abrir el documento.
+</p>
 
-  
-  ### 📄 Actvidades Practico Experimentales (APE)
+---
 
-  
-  #### 🔴 Fase 1 y Fase 2
-  [APE_FASE1-FASE2_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069375/APE_FASE1-FASE2_U3_GRUPO.D.pdf)
+##### 📄 Aprendizaje Basado en Proyectos (APE)
 
-  
-  #### 🔴 Fase 3 y Fase 4
+<a href="Documentos/APE_FASE1-FASE2_U3_GRUPO_D.pdf">
+    <img src="Imagenes/APE_U3.jpeg" width="350" alt="APE">
+</a>
 
-  ### 📄 Actvidades Autonomas (AA)
+<p align="center">
+Haz clic en la imagen para abrir el documento.
+</p>
 
-  
-  #### 🔴 Actividad Autonoma sobre Teoria de Grafos 
-  [AA _TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069378/AA._TEORIA_GRAFOS_U3_GRUPO.D.pdf)
+---
 
-  ### 📄 Actvidades en Contacto con el Docente (APE)
+##### 📄 Presentación
 
-  
-  #### 🔴 ACD Presentacion de Teoria de Grafos 
-  [ACD _DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069385/ACD._DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO.D.pdf)
+<a href="Documentos/ACD_DIAPOSITIVAS_TEORIA_GRAFOS_U3_GRUPO_D.pdf">
+    <img src="Imagenes/PRESENTACION.jpeg" width="350" alt="Presentación">
+</a>
 
-  
-  #### 🔴 ACD Enlace Video de Presentacion de Teoria de Grafos 
-[ACD _ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO ¨D¨.pdf](https://github.com/user-attachments/files/30069382/ACD._ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO.D.pdf)
+<p align="center">
+Haz clic en la imagen para abrir el documento.
+</p>
 
-</details>
+---
+
+##### 📄 Video de Presentación
+
+<a href="Documentos/ACD_ENLACE_VIDEO_PRESENTACION_TEORIA_GRAFOS_U3_GRUPO_D.pdf">
+    <img src="Imagenes/VIDEO.jpeg" width="350" alt="Video">
+</a>
+
+<p align="center">
+Haz clic en la imagen para abrir el documento.
+</p>
