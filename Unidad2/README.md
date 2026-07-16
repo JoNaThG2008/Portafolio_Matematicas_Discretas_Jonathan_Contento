@@ -3,8 +3,6 @@
 # 📘 Unidad 2
 ## Álgebra Booleana
 
-*"El Álgebra Booleana permite representar, analizar y simplificar expresiones lógicas utilizadas en sistemas computacionales y circuitos digitales."*
-
 </div>
 
 ---
